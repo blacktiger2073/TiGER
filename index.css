@@ -5,6 +5,8 @@ body{
 }
 .bg{
     background-color:#5aaebf;
+    opacity:95%;
+    
 }
 .btn{
     color:#fff;
